@@ -6,9 +6,7 @@
   <title>my-first-website</title>
   
   
-{% for page in site.pages %}
-    <a href={{ page.filename }}>{{ page.title }}</a>
-{% endfor %}
+
 
 </head>
 
@@ -17,7 +15,9 @@
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
 
 <!-- Change this code here by copy and pasting your template on line 15 -->
-{{ content }}
+{% for page in site.pages %}
+    <a href={{ page.filename }}>{{ page.title }}</a>
+{% endfor %}
 
 </body>
 </html>
