@@ -19,15 +19,14 @@
       {% for page in site.pages %}
         <a href= {{ page.filename }} class="btn">{{ page.title }}</a>
       {% endfor %}
-      {% include toc.html html=content %}
     </section>
 
     <section class="main-content">
       
       {{ content }}
-      <a href="#" class="float">
-      <i class="fa fa-plus my-float"></i>
-      </a>
+      <div class=”float-button”>
+        {% include toc.html html=content %}
+      </div>
 
       <footer class="site-footer">
         <span class="site-footer-owner">©2020 by <a href="https://www.jacobwu.org">Jacob Wu</a>.</span>
