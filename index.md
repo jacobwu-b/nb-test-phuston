@@ -1,7 +1,7 @@
 ---
 title: CSxJW
 layout: template
-filename: _index
+filename: index
 --- 
 
 # Jacob Wu's Programming Notebook
