@@ -1,14 +1,14 @@
 ---
 title: CSxJW
 layout: template
-filename: index
+filename: _index
 --- 
 
 # Jacob Wu's Programming Notebook
 
 ## Current Projects
-- [ ]  Learn \| CS 61A, Berkeley
-- [ ]  Learn \| Java 2020, LinkedIn Learning
+- [ ] Learn \| CS 61A, Berkeley
+- [ ] Learn \| Java 2020, LinkedIn Learning
 - [ ] Learn \| Learn C, TBD
 - [ ] Code \| Philocave Interact
 
