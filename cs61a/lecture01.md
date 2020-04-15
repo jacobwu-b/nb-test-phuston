@@ -1,7 +1,7 @@
 ---
 title: Lecture 1
 layout: template
-filename: lecture01
+filename: cs61a/lecture01
 --- 
 
 # Lecture 1
