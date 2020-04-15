@@ -1,5 +1,5 @@
 ---
-title: CS\*JW
+title: CSxJW
 layout: template
 filename: index
 --- 
@@ -7,10 +7,10 @@ filename: index
 # Jacob Wu's Programming Notebook
 
 ## Current Projects
-- [ ] Learn | CS 61A, Berkeley
-- [ ] Learn | Java 2020, LinkedIn Learning
-- [ ] Learn | Learn C, TBD
-- [ ] Code | Philocave Interact
+- [ ] Learn \| CS 61A, Berkeley
+- [ ] Learn \| Java 2020, LinkedIn Learning
+- [ ] Learn \| Learn C, TBD
+- [ ] Code \| Philocave Interact
 
 ## Proficiencies
 * Python, 2 yrs
