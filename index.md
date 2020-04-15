@@ -1,5 +1,5 @@
 ---
-title: CSxJW
+title: Comp Sci Notes | JW
 layout: template
 filename: index
 --- 
