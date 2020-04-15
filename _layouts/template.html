@@ -22,16 +22,7 @@
     </section>
 
     <section class="main-content">
-      
-      <div class = "Main">
-        <div class = "menu">
-<!--           {% include toc.html html=content %} -->
-        </div>
-        
-        <div class = "Content">
-        {{ content }}
-        </div>
-      </div>
+      {{ content }}
       
       <footer class="site-footer">
         <span class="site-footer-owner">©2020 by <a href="https://www.jacobwu.org">Jacob Wu</a>.</span>
@@ -39,21 +30,5 @@
       </footer>
 
     </section>
-    
-    <script src="path/to/vanilla.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.css">
-    tocbot.init({
-  // Where to render the table of contents.
-  tocSelector: '.js-toc',
-  // Where to grab the headings to build the table of contents.
-  contentSelector: '.js-toc-content',
-  // Which headings to grab inside of the contentSelector element.
-  headingSelector: 'h1, h2, h3',
-  // For headings inside relative or absolute positioned containers within content.
-  hasInnerContainers: true,
-});
-    
-    
   </body>
 </html>
