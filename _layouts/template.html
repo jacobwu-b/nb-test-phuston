@@ -19,6 +19,7 @@
       {% for page in site.pages %}
         <a href= {{ page.filename }} class="btn">{{ page.title }}</a>
       {% endfor %}
+      {% include toc.html html=content %}
     </section>
 
     <section class="main-content">
