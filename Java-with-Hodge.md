@@ -4,7 +4,7 @@ title: Comp Sci Notes | JW
 
 layout: template
 
-filename: Java with Hodge
+filename: Java-with-Hodge
 
 ---
 
