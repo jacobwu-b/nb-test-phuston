@@ -23,16 +23,36 @@ filename: java-hodge</h2>
 </ul>
 <p>
 
-Jav s o  ae oe esto te class = programming fundamentals</p>
+Jav s o  ae oe esto te
+--- 
+
+# Java with Hodge
+[Course Page](https://www.linkedin.com/learning/learning-java-4/)
+
+Java = popular
+* Web
+* Mobile
+* Desktop
+* Other
+
+This class = programming fundamentals</p>
 <ul>
-<li>Loops, functions, classes</li>
-<li>Real world examples</li>
+<li>
+* Loops, functions, classes</li>
+<li>
+* Real world examples</li>
 <li>Debugging</li>
 </ul>
 <p>No prior experience necessary</p>
 <h1 id="what-is-java">
 
-# Getting Started with Java</h1>
+# Getting Star
+* Debugging
+
+No prior experience necessary
+
+
+> Writtedn with Java</h1>
 <p>
 Programming language –-- vocabulary, grammatical rules<br>
 Motivation –-- complete tasks using computers</p>
@@ -41,7 +61,8 @@ Motivation –-- complete tasks using computers</p>
 Java Runtime Environment (JRE) = needed to **run** Java programs</p>
 
 
-Java Development Kit (JDK) = needed to **build** & **develop** Java programs
+Java Development Kit (JDK) = needed to **build** & **develop** Java programs[StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY1MDE0ODcsMTgwMzE0NTM0OF19
+eyJoaXN0b3J5IjpbMTEwNTAzODM2NCwtMTgwNjUwMTQ4NywxOD
+AzMTQ1MzQ4XX0=
 -->
