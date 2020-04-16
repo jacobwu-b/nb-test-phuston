@@ -32,7 +32,7 @@ Jav s o  ae oe esto te class = programming fundamentals</p>
 <p>No prior experience necessary</p>
 <h1 id="what-is-java">
 
-# What is Java</h1>
+# Getting Started with Java</h1>
 <p>
 Programming language –-- vocabulary, grammatical rules<br>
 Motivation –-- complete tasks using computers</p>
@@ -43,5 +43,5 @@ Java Runtime Environment (JRE) = needed to **run** Java programs</p>
 
 Java Development Kit (JDK) = needed to **build** & **develop** Java programs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzE0NTM0OF19
+eyJoaXN0b3J5IjpbLTE4MDY1MDE0ODcsMTgwMzE0NTM0OF19
 -->
