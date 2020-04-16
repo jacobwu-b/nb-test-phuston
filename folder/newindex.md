@@ -1,7 +1,7 @@
 ---
 title: New Index
 layout: template
-filename: newindex
+filename: folder/newindex
 --- 
 
 # New Index
