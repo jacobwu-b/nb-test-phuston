@@ -1,3 +1,13 @@
+---
+
+title: CS 61A Summer 2019 | Preview
+
+layout: template
+
+filename: CS-61A-Summer-2019-Preview
+
+---
+
 # CS 61A Summer 2019 | Preview
 
 # 0 | Helpful Resources
