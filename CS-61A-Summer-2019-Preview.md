@@ -120,7 +120,7 @@ def ratioOfVolumes (r1, r2):
 
 ​	2. Evaluate the expressions
 
-![Screen Shot 2020-04-16 at 6.57.47 PM](./CS-61A-Summer-2019-Preview.assets/Screen Shot 2020-04-16 at 6.57.47 PM.png)
+![ScreenShot2020-04-16at6.57.47PM](./CS-61A-Summer-2019-Preview.assets/ScreenShot2020-04-16at6.57.47PM.png)
 
 Calling / applying user-defined function
 
@@ -157,13 +157,13 @@ e.g. local frame, followed by global frame
 
 ​	`and`, `or`, `not`
 
-![Screen Shot 2020-04-16 at 6.58.58 PM](./CS-61A-Summer-2019-Preview.assets/Screen Shot 2020-04-16 at 6.58.58 PM.png)
+![ScreenShot2020-04-16at6.58.58PM](./CS-61A-Summer-2019-Preview.assets/ScreenShot2020-04-16at6.58.58PM.png)
 
 # 4 | Lecture 4
 
 **Environment Diagrams** | Visual illustration of bindings & states
 
-![Screen Shot 2020-04-16 at 6.59.24 PM](./CS-61A-Summer-2019-Preview.assets/Screen Shot 2020-04-16 at 6.59.24 PM.png)
+![ScreenShot2020-04-16at6.59.24PM](./CS-61A-Summer-2019-Preview.assets/ScreenShot2020-04-16at6.59.24PM.png)
 
 **Parent Frame** = Where a function was defined in 
 
@@ -212,7 +212,7 @@ square = lambda x: x ** 2
 s = lambda x: sum(i for i in range(x+1))
 ```
 
-![Screen Shot 2020-04-16 at 7.02.39 PM](./CS-61A-Summer-2019-Preview.assets/Screen Shot 2020-04-16 at 7.02.39 PM.png)
+![ScreenShot2020-04-16at7.02.39PM](./CS-61A-Summer-2019-Preview.assets/ScreenShot2020-04-16at7.02.39PM.png)
 
 <u>RV</u> = `None` if function has no return value
 
@@ -247,7 +247,7 @@ def make_adder(n):
 5
 ```
 
-![Screen Shot 2020-04-16 at 7.04.08 PM](./CS-61A-Summer-2019-Preview.assets/Screen Shot 2020-04-16 at 7.04.08 PM.png)
+![ScreenShot2020-04-16at7.04.08PM](./CS-61A-Summer-2019-Preview.assets/ScreenShot2020-04-16at7.04.08PM.png)
 
 ```python
 def print_sums(n):
