@@ -1,6 +1,9 @@
 ---
-Title: Hacking With Swift
----
+title: Hacking with Swift
+layout: template
+filename: Hacking-With-Swift
+--- 
+
 
 # Day 1 Variables, simple data types, and string interpolation
 
